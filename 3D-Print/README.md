@@ -26,4 +26,4 @@ You will also need some plastic glue.
 ## License
 This work is considered 'fan art' and licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-flexion 2019
+<hr><img src="https://www.flexion.ch/cdn/img/flexion.svg" width="120">
