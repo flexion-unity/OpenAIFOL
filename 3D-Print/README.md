@@ -1,3 +1,5 @@
+<img src="http://openaifol.flexion.io/cdn/img/aifolwebgl.png" width="560">
+
 # OpenAIFOL 3D-Print
 Welcome to the OpenAIFOL 3D-Printing project by 'flexion'.
 
