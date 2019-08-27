@@ -1,3 +1,5 @@
+<img src="https://www.flexion.ch/cdn/img/flexion.svg" width="120">
+<hr>
 <img src="http://openaifol.flexion.io/cdn/img/OpenAIFOL_01.jpeg" width="660">
 
 # OpenAIFOL 3D-Print
