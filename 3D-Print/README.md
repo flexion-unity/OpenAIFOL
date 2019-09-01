@@ -9,7 +9,7 @@ Welcome to the OpenAIFOL 3D-Printing project by 'flexion'.
 AIFOL is an acronym for 'All Is Full of Love', a song by Icelandic musician Björk. 
 The song was initially released in 1997 on Björks third studio album 'Homogenic'.
 
-In 1999 another variant of the song was released along with the famous music video directed by Chris Cunningham.
+In 1999 another variant of the song was released along with the famous [music video](https://www.youtube.com/watch?v=u0cS1FaKPWY) directed by Chris Cunningham.
 The music video depicts Björk as a robot who passionately kisses another robot while being assembled in an ethereal sterile white factory. The video was enhanced with post production CGI effects which count as a milestone in computer animation.
 
 ## OpenAIFOL
