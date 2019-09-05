@@ -16,6 +16,9 @@ The music video depicts Björk as a robot who passionately kisses another robot 
 ## OpenAIFOL 3D-Print
 OpenAIFOL 3D-Print is optimized for printing. The dimensions are 21.5cm x 31.5cm x 13.5cm and consists of several hundred pieces if you want to print the room, worker arm and the robot.
 
+## Download STL
+To download all the STL objects in a ZIP file, go to the project root and use the clone function, or download [the master branch ZIP file](https://github.com/flexion-unity/OpenAIFOL/archive/master.zip).
+
 ## 3D printing instructions
 Currently there are no step by step assembly instructions available yet. If you want to build your own AIFOL diorama, use the provided photos on the [project website](https://openaifol.flexion.io) as a reference. Printable parts are categorized by object and filament color is part of the filename. Some parts have to be printed more than once.
 
