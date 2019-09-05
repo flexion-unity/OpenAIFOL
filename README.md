@@ -1,6 +1,4 @@
-<img src="https://www.flexion.ch/cdn/img/flexion.svg" width="120">
-<hr>
-<img src="http://openaifol.flexion.io/cdn/img/OpenAIFOL_01.jpeg" width="660">
+<img src="http://openaifol.flexion.io/cdn/img/OpenAIFOL_02.jpeg" width="660">
 
 # Welcome to OpenAIFOL
 AIFOL is an acronym for '[All Is Full of Love](https://en.wikipedia.org/wiki/All_Is_Full_of_Love)', a song by Icelandic musician [Björk](https://en.wikipedia.org/wiki/Bj%C3%B6rk). 
