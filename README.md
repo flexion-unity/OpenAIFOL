@@ -10,8 +10,6 @@ The music video depicts Björk as a robot who passionately kisses another robot 
 ## OpenAIFOL
 [OpenAIFOL](https://openaifol.flexion.io) is a 3D mesh copy created from scratch, featuring the robot and the assembly factory room. The initial Blender 3D mesh was created in 2017 by 'flexion' while creating a MS-HoloLens Unity3D educational project. Later the 3D mesh was also used for a WebGL real time browser demo and even turned into a 3D printing project in 2019 for the 20th anniversary of this epic music video.
 
-<b>NOTE: Blender Sources will be released soon. Meanwhile please have a look at the [3D Printing Project](3D-Print/)!</b>
-
 ## 3D Print
 If you want to print your own 'All Is Full Of Love' diorama, you can find the STL sources for all required parts [here](3D-Print/).
 
